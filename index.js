@@ -564,4 +564,4 @@ client.on('interactionCreate', async (interaction) => {
 });
 
 //login bot
-client.login(token)
+client.login("MTMyMDM5ODg1OTkxODI0NTg4OA.GALFfV._k0F_gaT_ir54Jn8Ds6HBFwaWNYA20Jjjd6xwk")
